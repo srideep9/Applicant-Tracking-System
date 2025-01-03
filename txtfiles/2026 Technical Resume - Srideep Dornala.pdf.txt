@@ -1,0 +1,116 @@
+SRIDEEP DORNALA
+https://www.linkedin.com/in/srideep-d | dornala.srideep@gmail.com | (510)-203-2056 | Github: srideep9
+
+EDUCATION
+University of California, San Diego
+B.S. Computer Science | GPA: 4.0
+●
+
+San Diego, CA
+Expected Graduation, June 2026
+
+Relevant Coursework: Data Structures and Algorithms, Mathematics for Algorithms and Systems, Software Tools and Techniques,
+Computer Organization and Systems Programming, Design and Analysis of Algorithms, Introduction to Quantum Computing
+
+Irvington High School
+Weighted GPA: 4.6 | Test Scores: SAT (1570/1600)
+
+Fremont, CA
+June 2023
+
+California Community Colleges (Mission College, West Valley College, Ohlone College)
+
+Fremont, CA
+
+●
+
+Relevant Coursework: Software Development with Java, Introduction to SQL, Python Programming, Introduction to Networking,
+C++ Programming
+
+EXPERIENCE
+COLABERRY
+Data Science Intern
+●
+●
+●
+●
+●
+
+Researched and solved problems involving geo-spatial analysis, text-to-speech, and deep learning python libraries
+Developed a program to make English children’s books accessible to people that speak all languages and for people unable to read
+Led project to map homelessness in Chicago’s contributing factors using ArcGIS, GeoPandas, and Chicago’s Open Data Portal
+Developed courses for refactored.ai, a data science learning platform, on machine learning and artificial intelligence concepts
+Learned to use useful tools such as automated web scraping (Selenium web driver) to make workflows faster
+
+IHS DATA SCIENCE
+Founder and President
+●
+●
+
+Fremont, CA
+May 2022 – June 2023
+
+Reached out to clients and managed over 20 web development projects from local businesses and nonprofits
+
+ASPIRING SCHOLARS DIRECTED RESEARCH PROGRAM
+Lead Researcher
+●
+●
+
+Fremont, CA
+August 2021 – June 2023
+
+Founder and president of the Data Science Club at Irvington High School, a club that teaches data science, statistics, and machine
+learning concepts to high school students and held 20+ workshops. Club had over 200 members.
+Hosted a hackathon for social good with over 100 participants and 10 sponsors
+
+IHS HACK CLUB
+Director of Projects
+●
+
+Fremont, CA
+July 2022 - January 2023
+
+Fremont, CA
+August 2020 – May 2021
+
+Conducted ML and data analysis research under Dr. Robert Downing using the NASA Exoplanet Archive
+Wrote a research paper: “The Exploration of Habitable Exoplanets Using Data Mining Algorithms and Data Manipulation” (Link to
+Paper)
+
+PROJECTS
+LOAN LYNX
+Team Member
+●
+●
+●
+
+Created a website that analyzes loan documents and informs users about the loans they are eligible for by using optical character
+recognition and machine learning
+Analyzed a dataset of approved and disapproved loans using Pandas and made a machine learning model using Scikit-learn’s Naive
+Bayes algorithm (got an accuracy of 90.08%)
+Created a website using Python Flask and used EasyOCR to run OCR on uploaded documents
+
+TRITON TUTOR
+Team Member
+●
+●
+●
+
+San Diego, CA
+January 2024
+
+San Diego, CA
+April 2024
+
+Created a Chrome extension that students at UCSD can use to talk to an AI chatbot trained with data from recorded lectures.
+Won prize at Diamond Hacks (Hackathon hosted by ACM at UCSD)
+Used Javascript, HTML, and CSS to manage the frontend of the extension. Implemented OpenAI’s API through the backend using
+Python Flask
+
+SKILLS & INTERESTS
+Programming: Python (Pandas, Scikit-learn, Tensorflow, GeoPandas, google trans, gTTS, arcGIS, Selenium, Flask, PyTorch), R, C++, Java,
+SQL, HTML, CSS, Javascript (Node.js, React.js), Ruby
+Tools: CAD (Fusion 360), IntelliJ, PyCharm, Eclipse, AWS (S3, Lambda, Textract), Jupyter Notebooks, Git, Bootstrap, MongoDB, Docker
+
+

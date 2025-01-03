@@ -1,0 +1,51 @@
+Sofia Flores
+Hartford, CT | 238-555-0102 | sflores@email.com
+Summary
+Expert-level Software Architect who has more than three years' experience developing
+proprietary enterprise software products and has optimum excitement in using various
+technologies to design, develop, and attentively deploy real enterprise class software, including
+building a knowledge of customers' environments and their use of products.
+Education
+Green Valley State
+Bachelor's Degree in computer science/software engineering
+Experience
+Trade Tech, Software Architect
+Jul '19 - Current
+
+●
+●
+●
+●
+
+Communicates architectural designs with 17 internal and 25 external stakeholders
+involved in company projects
+Defines product requirements and creates high-level architectural specifications,
+ensuring feasibility and functionality with existing 10 platforms
+Relies on extensive experience and judgment to plan and accomplish goals on a
+consistent and productive basis
+Develops software and follows the company SDLC (Software Development Lifecycle),
+which includes Agile sprint tasking and management using Trello
+
+Clearwater Creative, Assistant Software Architect
+Aug '15 - Jul '19
+
+●
+●
+●
+
+Created writing unit and UI tests that run on a CI (continuous integration) server for each
+feature and regression for uniformity
+Maintained six publishing software pull requests and performed 17 code reviews using
+GitHub to create a schedule to be delivered on time
+Ensured that a safe and secure work environment was maintained in compliance with
+corporate policies and federal and state regulations, resulting in 100% company
+compliance
+
+Skills
+●
+●
+
+JavaScript
+C#
+
+

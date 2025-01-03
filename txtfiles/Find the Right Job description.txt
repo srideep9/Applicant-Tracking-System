@@ -1,0 +1,44 @@
+Find the Right Job Project
+Position: Core AI Software Engineer,
+Responsibilities:
+•
+•
+•
+•
+
+•
+•
+•
+•
+
+Collaborates with cross-functional team to discover machine learning
+algorithms to prototype testing and production.
+Ensures software standards are met.
+May use multi-systems and multi-agent approaches to architect and design
+AI software systems.
+Has a great passion for Modeling, Simulation, Autonomy Development,
+Software, with good understanding in AI applications and training process.
+you will lead the development and implementation of cutting-edge AI
+algorithms and models tailored for Job searching and matching.
+Your role will involve designing, architecting, and optimizing AI systems
+specifically for modeling, simulation, and autonomy development.
+Has good understanding in data protection design to protect user privacy.
+Be creative to collect information from multiple types of documents like pdf,
+docx, xlsx or pptx.
+Be willing to learn new techniques actively, independently.
+
+Qualifications
+Science majors, Availability: 5 hours/week.
+0-3 years of experience in software engineering with a focus on AI/ML development
+for modeling, simulation, and autonomy
+Familiar with machine learning techniques, deep learning frameworks, and
+statistical analysis.
+Excellent problem-solving skills and the ability to work in a fast-paced, collaborative
+environment.
+Strong communication skills and the ability to effectively communicate complex
+technical concepts to non-technical stakeholders, facilitating cross-functional
+collaboration.
+Proficiency in programming languages such as Python, Java, or C++, with
+experience integrating AI solutions will be a plus.
+
+
